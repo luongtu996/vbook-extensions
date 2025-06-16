@@ -3,7 +3,7 @@
     "name": "Net Truyện",
     "author": "vBook",
     "version": 32,
-    "source": "https://www.nettruyenvv.com",
+    "source": "https://www.nettruyenvio.com",
     "regexp": "(www.)?nettruyen[a-z]*.(com|vn|net)/truyen-tranh/[^/]+/?$",
     "description": "Đọc truyện trên trang Net Truyện",
     "locale": "vi_VN",
